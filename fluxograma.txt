@@ -3,8 +3,8 @@
 1 Apresentar o Programa
 2 Dar um "Olá" e requer uma resposta do usuário
 3 Pega a informação do usuário e armazena em uma variável
-4 Checa se há um bloco de if para responder
- 4.1 Caso não haja um bloco de if para o que o usuário disse, então ele irá perguntar ao usuário o que ele deveria dizer
- 4.2 Pega a informação que o usuário disse e cria um bloco de if com o que o usuário disse antes e com o que ele deveria responder
+4 Checa se há um arquivo para respondê-lo
+ 4.1 Caso não haja um arquivo para o que o usuário disse, então ele irá perguntar ao usuário o que ele deveria dizer
+ 4.2 Pega a informação que o usuário disse e cria um arquivo com o que o usuário disse antes e com o que ele deveria responder
  4.3 Dá continuidade a conversa
 5 Caso tenha, ele responde e a conversa pode continuar
