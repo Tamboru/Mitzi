@@ -11,15 +11,16 @@ print ("|                   Bem vindo ao chatbot                     |")
 print ("|                                                            |")
 print ("--------------------------------------------------------------")
 print ()
-print ("\033[1;35mBot" "\033[0m: Olá!")
 
+print ("\033[1;35mBot" "\033[0m: Olá! Qual é seu nome?")
+nome = input("\033[1;32mVocê" "\033[0m: ")
+print ("\033[1;35mBot" "\033[0m: Olá", nome+"," " como vai você?")
 
-
-while(info != "Tchau"):
+while(info != "tchau"):
 
 	info = input("\033[1;32mVocê" "\033[0m: ")
-
-	if info == ("Tchau"):
+	info = info.lower()
+	if info == ("tchau"):
 		
 		print ("\033[1;35mBot" "\033[0m: Ok, até a próxima!")
 		exit()
