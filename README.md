@@ -1,8 +1,9 @@
 # botchat
+
+Mitzi 
 	Um simples botchat criado em Python, criei com o objetivo de aprender mais sobre Python,
 o que foi muito bom. O programa foi feito em apenas 1 dia, aprendendo e colocando em prática neste projeto,
  espero que você goste, mesmo que seja simples =)
-
 	Tenho planos para aprimora-lo no futuro, mas nada sério, pois este projeto é apenas um hobby,
  algo para aprender. O bot funciona de forma simples, há uma pasta escondida na pasta principal chamada ".cerebro",
  ela funciona armazenando arquivos com o nome do que o usuário disser, e dentro desses arquivos
